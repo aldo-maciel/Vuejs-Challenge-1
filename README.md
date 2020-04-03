@@ -30,7 +30,6 @@ Create a **task board** that can create and reorder multiple task lists.
   - Develop your **task board** solution
   - Open a pull-request
 
-
 ### Notes
 
   - Submit original and compiled files
