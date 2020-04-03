@@ -16,7 +16,6 @@ Create a **task board** that can create and reorder multiple task lists.
 
 3. Task title should always be visible
 
-
 ### Important
 
    - You should use Vue.js and Yarn
